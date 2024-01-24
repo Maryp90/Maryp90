@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mariana
 - 👀 I’m interested in videogames and coding
 - 🌱 I've finished the SheCodes course in September 2023
-- 📖 I'm consolidating some knowledge I have aquired in HTML, CSS and Javascript and learning 
-- 💞️ I’m looking to collaborate on Frontend Development
+- 📖 I'm now consolidating some knowledge I have aquired in HTML, CSS and Javascript
+- 💞️ I’m looking for an opportunity as a Junior Frontend Developer
 - 📫 How to reach me: mariana.p.azevedopereira@gmail.com or add me on linkedin: https://www.linkedin.com/in/mariana-pereira-b86b1382/
 
 <!---
