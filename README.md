@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 I'm learning how to code for the past year and a half. I finished the SheCodes course in September 2023 and I'm now trying to consolidate some knowledge. 
-I've endorsed in ZTM Academy to be able to had more knowledge to my database and also try to find an intern/junior frontend developer opportunity.
+I've endorsed in ZTM Academy to be able to add more knowledge to my database and also try to find an intern/junior frontend developer opportunity.
 The main purpose of trying to learn how to code is to be able to change carreers. 
 
 * 🌍  I'm based in Lisbon
