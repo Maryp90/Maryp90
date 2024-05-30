@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've learning to code for the past year and a half. I finished the SheCodes course in September 2023 and I'm now trying to consolidate some knowledge. I've endorsed in ZTM Academy to be able to find an intern/junior frontend developer opportunity.
+I'm learning how to code for the past year and a half. I finished the SheCodes course in September 2023 and I'm now trying to consolidate some knowledge. 
+I've endorsed in ZTM Academy to be able to had more knowledge to my database and also try to find an intern/junior frontend developer opportunity.
+The main purpose of trying to learn how to code is to be able to change carreers. 
 
 * 🌍  I'm based in Lisbon
 * 🖥️  See my portfolio at [MyPortfolio](http://glittery-bienenstitch-377c05.netlify.app/)
